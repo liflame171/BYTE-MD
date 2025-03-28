@@ -26,7 +26,7 @@ module.exports = {
   "ANTI_BOT": process.env.ANTI_BOT === 'true',
   "PREMIUM_USERS": process.env.PREMIUM_USERS || "",
   "COUNTRY_BLOCK": process.env.COUNTRY_BLOCK === 'true',
-  "COUNTRY_BLOCK_CODE": process.env.COUNTRY_BLOCK_CODE || "972",
+  "COUNTRY_BLOCK_CODE": process.env.COUNTRY_BLOCK_CODE || "263774569957",
   "EMOJI": process.env.EMOJI || "🙄",
   "AUTO_TYPING": process.env.AUTO_TYPING === 'true'
 };
